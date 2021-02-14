@@ -1,0 +1,5 @@
+Next build (build with proton clang 13)
+
+- improve ram usage
+- dexk: 1.0 to 1.10
+- improve ui performance (inprove caches))
