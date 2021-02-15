@@ -5,3 +5,4 @@ Next build (build with proton clang 13)
 - improve ui performance (inprove caches))
 - update linux to .174
 - improve performance (with patch for block/IO/display)
+- introduce support for extfat I/O DRIVER
