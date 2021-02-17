@@ -1,0 +1,2 @@
+chmod +x setup-makefiles.sh
+./extract-files.sh (path/to/your/extracted/system)
