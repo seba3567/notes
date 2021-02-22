@@ -8,3 +8,9 @@ sync last linux patch (.257)
 optimize ion capture
 build wlan SAE
 remove full eas go hmp for kernel 4.4
+update exfat update
+update f2fs
+improve sound quality
+improve mm usage
+Merge CAF LA.UM.8.2.r1-07000 (Q tag)
+improve performance (GPU)
