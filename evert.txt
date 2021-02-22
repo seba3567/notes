@@ -2,8 +2,11 @@ Moto g6 plus
 
 NEXT BUILD
 
-DT
+
+
+
+
+22/2/2021
 -  build with performance 
 -  introduce sys loops 
--  introduce back Moto actions actions ()
 - update overlays from LA.UM.9.2.1.r1-05500-sdm660.0
