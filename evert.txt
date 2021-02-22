@@ -3,6 +3,6 @@ Moto g6 plus
 NEXT BUILD
 
 DT
-- add freeform window management
-- add dolby by moto
-- introduce lineage actions ()
+-  build with performance 
+-  introduce sys loops 
+-  introduce back Moto actions actions ()
